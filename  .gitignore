@@ -1,0 +1,13 @@
+*.env
+venv/
+.idea/
+*.sqlite3
+__pycache__/
+
+db.py/
+
+staticfile/
+*.jpg
+*.jpeg
+*.png
+*.gif
